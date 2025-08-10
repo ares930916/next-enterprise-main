@@ -15,7 +15,6 @@ While most Next.js boilerplates focus on individual developer needs with excessi
 </picture>
 </a>
 
-
 ## Documentation
 
 There is a separate documentation that explains its functionality, highlights core business values and technical decisions, provides guidelines for future development, and includes architectural diagrams.
